@@ -1,7 +1,2 @@
 @import 'vanilla-framework';
 @include vanilla;
-
-// easy way to test that Percy snapshots are detecting diffs / web artifacts being uploaded successfully
-* {
-  font-family: 'Consolas', 'Deja Vu Sans Mono', 'Bitstream Vera Sans Mono', monospace !important;
-}
